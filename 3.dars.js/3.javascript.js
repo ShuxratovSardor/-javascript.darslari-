@@ -8,7 +8,7 @@
 // function expression, function declaration, arrow function
 
 // function decloretion : fuction name = () {}
-// function expression  : let name = () {}
+// function expressiogin  : let name = () {}
 // arrow function       : let name = () => {}
 
 //===============
