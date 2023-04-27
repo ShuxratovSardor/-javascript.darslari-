@@ -61,3 +61,35 @@
 //non primitive//
 
 //===== objekt ======//
+
+//=============
+
+// Stringni Numberga utqazish//
+
+// =========1
+// let b = 10.3
+// console.log(+b)
+// ===========
+
+// ========2
+// let b ="10"
+// console.log(Number(b));// agar sondi oldiga bironta harif qushilsa NaN birvaradi raqamas didi
+// ==========
+
+// =========3 kasir kiremas
+// let c ="10s.3"
+// console.log(parseInt(c)) // 10  agar harif kib qosa raqam oldidan harifgacha bugan raqanmdi uqidi
+// =============
+
+// =======4
+// let c ="1.6"
+// console.log(parseFloat(c))// 1 agar harif kib qosa raqam oldidan harifgacha bugan raqanmdi uqidi
+
+// const res = (title) => {
+//     return 1213;
+// };
+// console.log(title());
+
+// number farqi parseFloat //
+// number  = harif arilashsa NAN qaytaradi
+// parseFloat  = harif arilashsa harif arilashkan joygacha bugan sondi oladi
