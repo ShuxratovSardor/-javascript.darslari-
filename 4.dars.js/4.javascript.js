@@ -61,3 +61,55 @@
 // console.log(undefined || 1);//1
 // console.log(undefined ?? 1);//1
 //=============]
+
+//==========================[
+// console.log(1 !== "0");//true ha teng emas
+// console.log(1 !== "0" && false && "helow");//false
+// console.log(1 !== "0" && true && "helow");//helow
+// console.log(!(1 !== "0" && true && "helow"));//false !yoq teng
+//==========================]
+//Basic operators, match//
+
+// =========|+=|1 kushish
+//let a = 50;
+// a = a + 10; <asil holata yozilshi//50+10
+//a+=10 <kiskardmasi
+//console.log(a)
+// ===============
+
+// ==========|-=|2 ayirish
+//let a = 50;
+//a = a-10 <asil holati //50-10
+//a-=10 //<kiskartma holati
+//console.log(a)
+// ============
+
+// =========|/=|3 bulish
+//let a = 10;
+//a = a / 5  //<asil holati//10/5
+//a/=5  //<kiskartma holati
+//console.log(a)
+// ==========
+
+// ========|%|koldig
+//let a = 55;
+//a = a % 10;//<asil holati  //55%10
+//a %= 10 //<kiskartma holati
+//console.log(a)
+// ==========
+
+// ========|*=| kupaytiru
+// let a = 5;
+// a = a * 5 //5*5 //<asil holati
+// a *= 5  //<kiskartma holati
+// console.log(a)
+//==================
+
+//===|**|nechinchid darajasi==//
+// console.log(2*2);//2**2 darajasi
+// console.log(2*2*2);//2**3 darajasi
+// console.log(2*2*2*2);//2**4 darajasi
+// console.log(2*2*2*2*2);//2**5 darajasi
+//===========================
+
+// ==============]
