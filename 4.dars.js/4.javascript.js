@@ -11,7 +11,7 @@
 
 // =========================================]
 
-// OR //
+/// OR //
 //     OR   / yoki digani /  ===  truega ishledi
 //============ || <or belgisi// <ikalasini tekshirib beradi
 // let ceo = false;
