@@ -4,7 +4,9 @@
 // new WeakSet() - GarbeachColeption buganda hiptan uchib kitadi
 // new Set() -    GarbeachColeption bupqoganda hiptan uchib kitmedi
 
-// new Set() // 
+// new Set() // arry ga uxshab ishledi 
+// metodlari - has(),delete(),clear()
+
 // ikkta bir hil bugan raqamlani chiqarvarish uchun //
 
 //    let num = [1,2,3,4,5,5,6,7,7,8,9,10,10]
@@ -21,7 +23,8 @@
 // console.log(Array.from("webbrain", (v) => v.toUpperCase ()))
 
 //=================
-// new Map  vazifasi
+// new Map  vazifasi object ga uxshab ishledi
+// metodlari - set() , get(), has(),delete(),clear()
 // next bilan ishledi
 
 // new Map
