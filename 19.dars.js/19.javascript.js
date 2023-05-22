@@ -15,7 +15,7 @@
 
 //    console.log(new Set(num));// ikkta birhil bugan raqamlani chiqarib tashedi
 
-// javobi: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+// javobi: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 //
 
 //==============================
 
