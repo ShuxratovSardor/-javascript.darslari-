@@ -1,6 +1,8 @@
 // new WeakMap()- GarbeachColeption buganda hiptan uchib kitadi
 // new Map() -GarbeachColeption bupqoganda hiptan uchib
 
+// ikalasini farqi 
+
 // new WeakSet() - GarbeachColeption buganda hiptan uchib kitadi
 // new Set() -    GarbeachColeption bupqoganda hiptan uchib kitmedi
 
@@ -50,4 +52,5 @@
 //           ["b",2],
 //  ]).entries();
 
-//  console.log(obj.next());//entries(); key va valuega qaytarepti vazifasi next() ishlatib berish uhcun
+//  console.log(obj.next());//entries(); key va valuega qaytarepti vazifasi next() ishlatib berish uhcun //
+
