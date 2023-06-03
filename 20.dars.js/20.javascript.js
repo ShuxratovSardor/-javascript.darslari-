@@ -1,4 +1,4 @@
-    // DDOS Attac //
+        // DDOS Attac //
 // arrorlani oldini olish uchun 
 // yani hardoyim bekendtan mlumoti opkimasinda 
 // uzimizda bor malumoti chiqarsin yuq bulsa sahranit 
@@ -20,3 +20,5 @@
 //   }
 // }
 // getData = getChashe(getData)()
+
+//////////////////
